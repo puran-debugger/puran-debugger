@@ -11,7 +11,9 @@ I am Puran Zhang
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![SAS](https://img.shields.io/badge/-SAS-333333?style=flat&logo=sas)
 ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=c)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 
 <!--
