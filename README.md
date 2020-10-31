@@ -9,10 +9,11 @@ I am Puran Zhang
 ⚙ Tools and Technologies
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![SAS](https://img.shields.io/badge/-SAS-333333?style=flat&logo=sas)
 ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 ![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=c)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=Bash)
