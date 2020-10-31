@@ -17,6 +17,9 @@ I am Puran Zhang
 ![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=c)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=Bash)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter)
 
 <!--
 **puran-debugger/puran-debugger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
