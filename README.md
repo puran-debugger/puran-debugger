@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Puran 👋
 I am Puran Zhang
 
 📫 How to reach me:
