@@ -1,4 +1,10 @@
 ### Hi there 👋
+I am Puran Zhang
+
+📫 How to reach me:
+
+[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/puran-zhang/)
+[![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:puranzha@gmail.com)
 
 <!--
 **puran-debugger/puran-debugger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
