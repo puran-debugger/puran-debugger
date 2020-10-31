@@ -29,7 +29,19 @@ I am Puran Zhang
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azure-devops)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter)
 
+
+
+<details close>
+<summary>:zap: GitHub Statistics</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=puran-debugger&show_icons=true&theme=nord" width="400px">
+</details>
+
 <!--
+<details close>
+<summary>:zap: Languages</summary>
+  <img src="https://wakatime.com/share/@397b1319-dbea-49b0-a916-53258ecb0152/36746a04-b26a-4fd1-8186-cb0ebc11042f.svg" width="400px">
+</details>
+
 **puran-debugger/puran-debugger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
