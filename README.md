@@ -1,6 +1,9 @@
 ### Hi, I'm Puran! 👋
 I am Puran Zhang
 
+![GitHub Follow](https://img.shields.io/github/followers/puran-debugger.svg?style=social&label=Follow)
+![GitHub Star](https://img.shields.io/github/stars/puran-debugger?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
+
 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/puran-zhang/)
