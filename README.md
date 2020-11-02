@@ -25,7 +25,7 @@ I am Puran Zhang
 ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=Bash)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
-![H2O](https://img.shields.io/badge/-H2O-333333?style=flat&logo=h20)
+![H2O.ai](https://img.shields.io/badge/-H2O-333333?style=flat&logo=h20)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azure-devops)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter)
