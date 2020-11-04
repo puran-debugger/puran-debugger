@@ -1,5 +1,5 @@
 ### Hi, I'm Puran! 👋
-I am Puran Zhang
+I am Puran Zhang！
 
 ![GitHub Follow](https://img.shields.io/github/followers/puran-debugger.svg?style=social&label=Follow)
 ![GitHub Star](https://img.shields.io/github/stars/puran-debugger?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
