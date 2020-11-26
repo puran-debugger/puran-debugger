@@ -13,6 +13,7 @@ I am Puran Zhang！
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![Scala](https://img.shields.io/badge/-Scala-333333?style=flat&logo=scala)
 ![SAS](https://img.shields.io/badge/-SAS-333333?style=flat&logo=sas)
 ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
 ![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=c)
