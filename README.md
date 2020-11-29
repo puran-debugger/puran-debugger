@@ -1,5 +1,5 @@
 ### Hi, I'm Puran! 👋
-I am Puran Zhang！
+Great to know you. I have two master's degree in computer science and financial mathematics and a bachelor's degree in statistics. I expect myself to be a full stack data scientist or quantitative analyst or software engineer.
 
 ![GitHub Follow](https://img.shields.io/github/followers/puran-debugger.svg?style=social&label=Follow)
 ![GitHub Star](https://img.shields.io/github/stars/puran-debugger?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
