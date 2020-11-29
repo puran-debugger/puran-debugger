@@ -1,6 +1,6 @@
 ### Hi, I'm Puran! 👋
-Great to know you. 
-I have two master's degree in computer science and financial mathematics and a bachelor's degree in statistics. 
+Great to know you.<br> 
+I have two master's degree in computer science and financial mathematics and a bachelor's degree in statistics. <br>
 I expect myself to be a full stack data scientist or quantitative analyst or software engineer.
 
 ![GitHub Follow](https://img.shields.io/github/followers/puran-debugger.svg?style=social&label=Follow)
