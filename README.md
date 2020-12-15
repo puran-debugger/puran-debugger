@@ -1,5 +1,5 @@
 ### Hi, I'm Puran! 👋
-- 🔭  I have two master's degrees in computer science and financial mathematics and a bachelor's degree in statistics with 2-year working exporsure on data mining and modelling on both structured and unstructured data in financial & tech industry. <br>
+- 🔭  I have two master's degrees in computer science and financial mathematics and a bachelor's degree in statistics with 2-year working exporsure on data mining and full-life machine learning model deployment(including data pipeline, created APIs, testing, dashboard, flask app) on both structured and unstructured data in financial & tech industry. <br>
 - 👯  I’m looking to collaborate on  anything. I love tinkering and making honest mistakes.<br>
 - 😄  I expect myself to be a full stack data scientist or quantitative analyst or software engineer.
 
