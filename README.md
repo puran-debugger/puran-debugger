@@ -1,5 +1,5 @@
 ### Hi, I'm Puran! 👋
-- 🔭  I  have 2-year working exporsure on data mining and full-life machine learning model deployment(including data pipeline, created APIs, testing, dashboard, flask app) on both structured and unstructured data in financial & tech industry with two master's degrees in computer science (Upenn) and financial mathematics (USC) and a bachelor's degree in statistics (USTC). As you see, I transfered my career in quantitative finance industry to machine learning engineer <br>
+- 🔭  I  have 2-year working exporsure on data mining and full-life machine learning model deployment(including data pipeline, created APIs, testing, dashboard, flask app) on both structured and unstructured data in tech & financial industry with two master's degrees in computer science (Upenn) and financial mathematics (USC) and a bachelor's degree in statistics (USTC). As you see, I transfered my career in quantitative finance industry to machine learning engineer <br>
 - 👯  I’m looking to collaborate on  anything. I love tinkering and making honest mistakes.<br>
 - 😄  I expect myself to be a full stack data scientist or quantitative analyst or software engineer.
 
