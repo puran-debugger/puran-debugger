@@ -13,15 +13,15 @@
 
 ⚙ Tools and Technologies
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Scala](https://img.shields.io/badge/-Scala-333333?style=flat&logo=scala)
-![SAS](https://img.shields.io/badge/-SAS-333333?style=flat&logo=sas)
-![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
 ![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
+![SAS](https://img.shields.io/badge/-SAS-333333?style=flat&logo=sas)
+![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
