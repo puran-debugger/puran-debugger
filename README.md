@@ -1,7 +1,7 @@
 ### Hi, I'm Puran! 👋
 - 🔭  I  have 2-year working exporsure on data mining and full-life machine learning model deployment(including data pipeline, machine learning pipline (modeling, validation), created APIs, testing, dashboard, flask app) on both structured and unstructured data in tech & financial industry with two master's degrees in computer science (Upenn) and financial mathematics (USC) and a bachelor's degree in statistics (USTC). <br>
 - 👯  I’m looking to collaborate on  anything. I love tinkering and making honest mistakes.<br>
-- 😄  I expect myself to be a full stack data scientist and software engineer.
+- 😄  I expect myself to be a full stack software engineer and data scientist.
 
 ![GitHub Follow](https://img.shields.io/github/followers/puran-debugger.svg?style=social&label=Follow)
 ![GitHub Star](https://img.shields.io/github/stars/puran-debugger?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
