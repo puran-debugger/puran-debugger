@@ -1,5 +1,5 @@
 ### Hi, I'm Puran! 👋
-- 🔭  I  recently work as a software Enngineer and full stack Data Scientist. And I have 2 two master's degrees in computer science (Upenn) and financial mathematics (USC) and a bachelor's degree in statistics (USTC). <br>
+- 🔭  I  recently work as a software Enngineer and full stack Data Scientist. I have 2 two master's degrees in computer science (Upenn) and financial mathematics (USC) and a bachelor's degree in statistics (USTC). <br>
 - 👯  I’m looking to collaborate on  anything. I love tinkering and making honest mistakes.<br>
 - 😄  I expect myself to be a full stack software engineer and data scientist
 
