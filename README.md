@@ -1,7 +1,7 @@
 ### Hi, I'm Puran! 👋
 - 🔭 &nbsp; I  recently work as a software Engineer and full stack Data Scientist. I have 2 two master's degrees in computer science (Upenn) and financial mathematics (USC) and a bachelor's degree in statistics (USTC). <br>
 - 👯 &nbsp; I’m looking to collaborate on  anything. I love tinkering and making honest mistakes.<br>
-- 😄 &nbsp; I enjoy what I am doing and expect myself to be an experienced full stack software engineer and data scientist
+- 😄 &nbsp; I enjoy what I am doing and expect myself to be an experienced full stack software engineer and data scientist<br>
 
 ![GitHub Follow](https://img.shields.io/github/followers/puran-debugger.svg?style=social&label=Follow)
 ![GitHub Star](https://img.shields.io/github/stars/puran-debugger?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
