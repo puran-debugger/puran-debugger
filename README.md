@@ -44,6 +44,7 @@
 ![AngularJS](https://img.shields.io/badge/-AngularJS-333333?style=flat&logo=angularjs)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-333333?style=flat&logo=hadoop)
 ![Spark](https://img.shields.io/badge/Spark-333333?style=flat&logo=spark)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
