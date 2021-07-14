@@ -1,5 +1,5 @@
 ### Hi, I'm Puran! 👋
-- 🔭 &nbsp; I recently work as a software Engineer and full stack Data Scientist. I once worked as a Quant in hedge fund and have 2 two master's degrees in computer science (Upenn) and financial mathematics (USC) and a bachelor's degree in statistics (USTC). <br>
+- 🔭 &nbsp; I recently work as a junior software Engineer and full stack Data Scientist. I once worked as a Quant in hedge fund and have 2 two master's degrees in computer science (Upenn) and financial mathematics (USC) and a bachelor's degree in statistics (USTC). <br>
 - 👯 &nbsp; I’m looking to collaborate on  anything. I love tinkering and making honest mistakes.<br>
 - 😄 &nbsp; I enjoy what I am doing and expect myself to be an experienced full stack software engineer and data scientist.<br>
 
