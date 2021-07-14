@@ -29,10 +29,8 @@
 ![Hive](https://img.shields.io/badge/-Hive-333333?style=flat&logo=hive)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![HBase](https://img.shields.io/badge/-HBase-333333?style=flat&logo=hbase)
-![Hadoop](https://img.shields.io/badge/-Hadoop-333333?style=flat&logo=hadoop)
-![Spark](https://img.shields.io/badge/Spark-333333?style=flat&logo=spark)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=Bash)
+![Shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=Shell)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
 ![H2O.ai](https://img.shields.io/badge/-H2O.ai-333333?style=flat&logo=h20)
@@ -41,7 +39,15 @@
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter)
 ![Latex](https://img.shields.io/badge/-Latex-333333?style=flat&logo=latex)
 
+⚙ Framework
 
+![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![AngularJS](https://img.shields.io/badge/-AngularJS-333333?style=flat&logo=angularjs)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+![Hadoop](https://img.shields.io/badge/-Hadoop-333333?style=flat&logo=hadoop)
+![Spark](https://img.shields.io/badge/Spark-333333?style=flat&logo=spark)
 
 <details close>
 <summary>:zap: GitHub Statistics</summary>
