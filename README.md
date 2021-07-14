@@ -31,11 +31,9 @@
 ![HBase](https://img.shields.io/badge/-HBase-333333?style=flat&logo=hbase)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=Shell)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
-![H2O.ai](https://img.shields.io/badge/-H2O.ai-333333?style=flat&logo=h20)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azure-devops)
+![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter)
 ![Latex](https://img.shields.io/badge/-Latex-333333?style=flat&logo=latex)
 
@@ -48,6 +46,9 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-333333?style=flat&logo=hadoop)
 ![Spark](https://img.shields.io/badge/Spark-333333?style=flat&logo=spark)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
+![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
+![H2O.ai](https://img.shields.io/badge/-H2O.ai-333333?style=flat&logo=h20)
 
 
 <summary>:zap: GitHub Statistics </summary>
