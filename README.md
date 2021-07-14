@@ -49,15 +49,21 @@
 ![Hadoop](https://img.shields.io/badge/-Hadoop-333333?style=flat&logo=hadoop)
 ![Spark](https://img.shields.io/badge/Spark-333333?style=flat&logo=spark)
 
+
+<summary>:zap: GitHub Statistics </summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=puran-debugger&show_icons=true&theme=nord"  width="400px">
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=puran-debugger&layout=compact"  width="400px">
+
+<!--
 <details close>
 <summary>:zap: GitHub Statistics</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=puran-debugger&show_icons=true&theme=nord" width="400px">
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=puran-debugger&layout=compact" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api?username=puran-debugger&show_icons=true&theme=nord"  width="400px">
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=puran-debugger&layout=compact"  width="400px">
   
 </details>
 
 
-<!--
+
 <details close>
 <summary>:zap: Languages</summary>
   <img src="https://wakatime.com/share/@397b1319-dbea-49b0-a916-53258ecb0152/36746a04-b26a-4fd1-8186-cb0ebc11042f.svg" width="400px">
