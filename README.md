@@ -53,9 +53,10 @@
 ![H2O.ai](https://img.shields.io/badge/-H2O.ai-333333?style=flat&logo=h20)
 
 
-<summary>:zap: GitHub Statistics </summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=puran-debugger&show_icons=true&theme=nord"  width="400px">
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=puran-debugger&layout=compact"  width="400px">
+<summary>:zap:  GitHub Statistics </summary>
+  
+![](https://github.com/puran-debugger/Github_stat/blob/master/generated/overview.svg)
+![](https://github.com/puran-debugger/Github_stat/blob/master/generated/languages.svg)
 
 <!--
 <details close>
