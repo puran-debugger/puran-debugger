@@ -41,6 +41,7 @@
 ⚙ Framework
 
 ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
+![Hibernate](https://img.shields.io/badge/-Hibernate-333333?style=flat&logo=hibernate)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![AngularJS](https://img.shields.io/badge/-AngularJS-333333?style=flat&logo=angularjs)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
