@@ -2,6 +2,13 @@
 - 🔭 &nbsp; I recently work as a junior software Engineer and full stack Data Scientist. I once worked as a Quant Researcher on Equity Alpha in a hedge fund and have 2 master's degrees in computer science (Upenn) and financial mathematics (USC) and a bachelor's degree in statistics (USTC). <br>
 - 👯 &nbsp; I’m looking to collaborate on  anything. I love tinkering and making honest mistakes.<br>
 - 😄 &nbsp; I enjoy what I am doing and expect myself to be an experienced full stack software engineer and data scientist.<br>
+- 🌱 &nbsp; There are some free resource that I recommend if you would like to start in computer science or data science industry<br> 
+  - [Algorithms (Princeton University)](https://www.coursera.org/learn/algorithms-part1) 
+  - [Data Structure (UC Berkeley)](https://sp21.datastructur.es/)
+  - [Operating System (UC Berkeley)](https://cs162.org/)
+  - [Artifical Intelligence (University of Pennsylvania)](https://artificial-intelligence-class.org/lectures.html#now)
+  - [Big Data Analytics (University of Pennsylvania)](https://sites.google.com/seas.upenn.edu/cis545)
+  - [Machine Learning (Carnegie Mellon University)](https://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)
 
 ![GitHub Follow](https://img.shields.io/github/followers/puran-debugger.svg?style=social&label=Follow)
 ![GitHub Star](https://img.shields.io/github/stars/puran-debugger?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
@@ -11,6 +18,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/puran-zhang/)
 [![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:puran@alumni.upenn.edu)
+
+
 
 ⚙ Technologies and Tools
 
@@ -55,7 +64,7 @@
 ![H2O.ai](https://img.shields.io/badge/-H2O.ai-333333?style=flat&logo=h20)
 
 
-<summary>:zap:  GitHub Statistics </summary>
+⚡  GitHub Statistics
   
 ![](https://github.com/puran-debugger/Github_stat/blob/master/generated/overview.svg)
 ![](https://github.com/puran-debugger/Github_stat/blob/master/generated/languages.svg)
