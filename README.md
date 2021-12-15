@@ -26,10 +26,10 @@
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![C](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=c)
 ![Scala](https://img.shields.io/badge/-Scala-333333?style=flat&logo=scala)
 ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
-![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=c)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
