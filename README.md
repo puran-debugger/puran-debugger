@@ -2,11 +2,7 @@
 - 🔭 &nbsp; I recently work as a junior software Engineer and a full-stack Data Scientist. I once worked as a Quant Researcher on Equity Alpha in a hedge fund and have 2 master's degrees in computer science (Upenn) and financial mathematics (USC) and a bachelor's degree in statistics (USTC). <br>
 - 👯 &nbsp; I’m looking to collaborate on  anything. I love tinkering and making honest mistakes.<br>
 - 😄 &nbsp; I enjoy what I am doing and expect myself to be an experienced full-stack software engineer and data scientist.<br>
-- 🌱 &nbsp; There are some free resources that may help if you would like to start in the computer science or data science industry.<br> 
-  - [Algorithms (Princeton University)](https://www.coursera.org/learn/algorithms-part1) 
-  - [Data Structure (UC Berkeley)](https://sp21.datastructur.es/)
-  - [Operating System (UC Berkeley)](https://cs162.org/)
-  - [Machine Learning (Carnegie Mellon University)](https://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)
+
 
 
 ![GitHub Follow](https://img.shields.io/github/followers/puran-debugger.svg?style=social&label=Follow)
